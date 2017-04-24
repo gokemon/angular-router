@@ -11,7 +11,7 @@ var __metadata = (this && this.__metadata) || function (k, v) {
 Object.defineProperty(exports, "__esModule", { value: true });
 /* this is HeroDetailComponent, moving away from a single component app*/
 var core_1 = require("@angular/core");
-var hero_1 = require("./hero");
+var hero_1 = require("../hero/hero");
 var HeroDetailComponent = (function () {
     function HeroDetailComponent() {
     }

@@ -1,6 +1,6 @@
 /* this is HeroDetailComponent, moving away from a single component app*/
 import { Component, Input } from '@angular/core';
-import { Hero } from './hero';
+import { Hero } from '../hero/hero';
 
 @Component({
   selector: 'hero-detail',
